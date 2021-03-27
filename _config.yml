@@ -1,0 +1,20 @@
+theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+markdown: kramdown
+title: Notes
+description: Timeless Notes
+url: https://notes.wellosoft.net
+google_analytics: "UA-109180894-3"
+collections:
+  personal:
+    permalink: "/:collection/:path/"
+    output: true
+  career:
+    permalink: "/:collection/:path/"
+    output: true
+just_the_docs:
+  collections:
+    personal:
+      name: Personal
+    career:
+      name: Karir
