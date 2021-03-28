@@ -6,7 +6,7 @@ layout: default
 
 Aku lahir dan berkembang dengan Agama Islam. Kebetulan dengan negara yang lebih dari 90% penganut islam.
 
-Aku dibesarkan dengan lingkungan cukup islamis. Mondok juga pernah. Sudah jadi tradisi keluarga.
+Aku dibesarkan dengan lingkungan cukup islamis. Diasramakan juga pernah. Sudah jadi tradisi keluarga.
 
 Meskipun aku dibesarkan ditengah kota pesantren, menjadi kyai atau ahli agama bukan tujuanku. Jadi soal agama aku tidak muluk-muluk, lagian aku juga tidak ingin jadi tokoh yang dikenal masyarakat.
 

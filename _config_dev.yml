@@ -1,9 +1,8 @@
-remote_theme: pmarsceill/just-the-docs
+theme: just-the-docs
 markdown: kramdown
 title: Notes
 description: Timeless Notes
 url: https://notes.wellosoft.net
-google_analytics: "UA-109180894-3"
 collections:
   articles:
     permalink: "/:path/"
