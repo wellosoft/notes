@@ -1,9 +1,13 @@
 ---
 title: Monopoli
-parent: Uang
-nav_order: 1
+nav_order: 2
 layout: default
+permalink: monopoli.html
 ---
+
+# Monopoli
+
+Kemudian aku ingin membahas satu hal yang paling merepotkan di dunia ini: Uang. Percayalah, uang hanyalah monopoli dunia.
 
 Makan butuh uang, ngekos butuh uang, beli kebutuhan juga butuh uang. Tidak heran mengapa kita jadi depresi apabila kekurangan uang, padahal uang bukan kebutuhan primer kita.
 
@@ -17,4 +21,4 @@ Itulah mengapa, hutang negara nggak akan berkurang, selalu bertambah, karena ora
 
 Kalau sistemnya begini kenapa gak sekalian negara bagi-bagi duit aja? Tidak bisa, karena itu menimbulkan inflasi. Semakin banyak hutang negara, semakin banyak uang yang beredar, semakin melemah daya beli uang tersebut; dan inflasi besar-besaran pasti akan merusak ekonomi negara. Sebut saja stok krisis di paman sam, akibat kebijakan baru di 2001 yakni bunga 0% buat ngutang properti rumah, akhirnya orang gemar beli rumah, saking seringnya sampai harga properti rumah naik terus sampai 2008 dimana harganya membengkak parah dan banyak orang sudah gak kuat bayar utangnya, jadi banyak orang diusir kehilangan rumah, sehingga banyak stok dijual, sehingga banyak usaha bangkut, dan akhirnya jadi banyak penggangguran. Parah banget, apalagi negara venezuela yang kebanyakan suntik dana sampai-sampai uang negara mereka sendiri literally jadi mainan kertas.
 
-Sejak mengetahui itu aku sadar, uang di dunia ini gak jauh sama hanya seperti uang di game virtual, literally monopoli dan ilusi dunia.
+Sejak mengetahui itu aku sadar, uang di dunia ini gak jauh sama hanya seperti uang di game virtual, *literally* monopoli dan ilusi dunia. Kalau sudah tahu begini, buat apa mengais uang goceng di dunia ini?
