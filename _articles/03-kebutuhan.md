@@ -12,12 +12,8 @@ Menurut penghitungan kasarku di tahun 2020, rata-rata orang membutuhkan pendapat
 
 Belum lagi apabila punya keluarga dan anak, karena menafkahi keluarga berarti menanggung pendapatan mereka. Misalkan keluarga dengan 4 anak, maka otomatis minimal pendapatan sang ayah harus 6 juta keatas atau keluarganya akan mengalami masalah finansial. Angka tersebut sayangnya, masih jauh diatas pendapatan rata-rata orang pribumi saat ini.
 
-Dengan tingginya perbedaan UMR dan kebutuhan real seseorang, tidak heran banyak orang mencari sumber dana pasif sebagai penunjang ekonomi keluarga.
+Dengan tingginya perbedaan UMR dan kebutuhan seseorang, tidak heran banyak orang mencari sumber dana pasif sebagai penunjang ekonomi keluarga. Sumber dana pasif tersebut bisa seperti investasi atau membuat usaha sendiri. Baik investasi maupun usaha sendiri, semua mempunyai resiko dan kesempatan masing-masing.
 
- Akan kumulai pembahasan ini dengan pepatah sederhana:
+Namun bagaimana dengan pekerjaan tetap? Tentu, apabila kita mempunyai tanggungan keluarga, kita harus mempunyai income dasar yang stabil. Menurutku, berusaha untuk memanjat dalam pekerjaan tetap itu bagus, namun perlu diingat, pekerjaan seperti ini tidak awet, karena ibarat seperti menunggang di mimpi orang lain. Maka dari itu aku mengganggap sumber ekonomi pasif perlu dikembangkan, juga untuk menghindari hal-hal yang tidak seperti seperti PHK dan sebagainya.
 
-Jika kamu ingin untung ribuan, maka kamu harus berani rugi ribuan<br>
-Jika kamu ingin untung jutaan, maka kamu harus berani rugi jutaan<br>
-Jika kamu ingin untung milyaran, maka kamu harus berani rugi milyaran
-
-Itu adalah hukum dasar dalam berbisnis, karena semua bisnis pada dasarnya beresiko. Orang yang ingin untung sebanyak banyaknya namun rugi sedikit dikitnya pastinya sudah berkhayal
+Aku akan menjelaskan inventasi pada halaman berikutnya.
