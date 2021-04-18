@@ -7,18 +7,16 @@ permalink: monopoli.html
 
 # Monopoli
 
-Kemudian aku ingin membahas satu hal yang paling merepotkan di dunia ini: Uang. Percayalah, uang hanyalah monopoli dunia.
+Kemudian aku ingin membahas satu hal yang paling merepotkan di dunia ini: Uang. Aku percaya uang hanyalah monopoli dunia.
 
-Makan butuh uang, ngekos butuh uang, beli kebutuhan juga butuh uang. Tidak heran mengapa kita jadi depresi apabila kekurangan uang, padahal uang bukan kebutuhan primer kita.
+Makan butuh uang, tempat tinggal butuh uang, internet juga butuh uang. Tidak heran mengapa orang jadi stres apabila kekurangan uang, padahal uang bukan kebutuhan primer kita.
 
-Tapi darimana sumber uang itu berasal? Orang awam pasti jawabnya "dari bank". Tak heran mengapa orang tua kita mengganggap kalau kerja di bank maka duitnya sejahtera. Tapi taukah dari mana bank dapat uang?
+Tapi darimana sumber uang itu berasal? Sebagian orang akan menjawab "bank". Tapi tahukah dari mana bank dapat uang? Sederhananya, bank dapat uang dari hutang. Hutang dari mana? Dari rakyat. Tapi bukan bank yang hutang, namun sebaliknya, rakyat yang hutang ke bank.
 
-Sederhana saja, bank dapat uang dari hutang. Hutang dari mana? Tentu dari rakyat. Sebut saja apabila rakyat butuh uang untuk beli rumah modal untuk usaha, pasti larinya ke bank. Sebut saja hutangnya 100jt, bank kalau dikasih hutang makin banyak bukan tambah was-was, tapi makin nyinyir, tau kenapa?
+Terlihat tidak masuk akal memang, namun begitu rakyat hutang, dana bank tidak hilang. Bank tinggal menulis cek sekian juta dan sudah, kertas itu bisa diibaratkan jadi uang lembar jutaan. Kok bisa? Ya, karena bank diijinkan oleh pemerintah untuk demikian agar sistem permodalan rakyat jadi mudah. Hutang tersebut nantinya diibaratkan menjadi hutang negara, dan inilah mengapa, hutang negara akan selalu bertambah kian waktu berjalan.
 
-Karena begitu rakyat hutang, dana bank gak hilang. Bank tinggal nulis cek "100 juta" dan udah, kertas itu literally bisa jadi uang lembar 100 juta. Kok bisa? Ya, karena bank pastinya sudah memeriksa kemampuan orang yang berhutang tersebut, bank gak peduli nanti uang itu diputar bagaimana, yang pasti uang harus kembali 100 juta ditambah bunga sesuai waktu tempo. Apakah sistem semacam itu legal? Ya, karena sekali rakyat utang, maka itu menjadi "hutang negara".
+Absurd? Iya, memang. Apalagi uang yang beredar dengan cara ini mengakumulasi 97% dari total uang didunia. Tentu pencetakan uang dengan cara ini diawasi oleh pemerintah dan pihak berwenang, atau inflasi tak terkendali akan terjadi di negara tersebut. Lebih absurdnya lagi, kita sebagai rakyat tentu tak boleh menggandakan uang dengan cara seperti ini. Itulah monopoli uang yang ada di saat ini.
 
-Itulah mengapa, hutang negara nggak akan berkurang, selalu bertambah, karena orang bakal selalu hutang. Ini sudah menjadi konsekuensi kalau sebuah negara ingin cepat berkembang. Dan praktik seperti ini legal di semua negara. Keren kan? Tapi rakyat biasa seperti kita tidak bisa seperti itu, nantinya bisa dianggap jadi pemalsuan uang. Hanya bank, baik negeri atau swasta, yang mempunyai otoritas seperti itu, tentunya dengan pembatasan sesuai yang berlaku di undang-undang.
+Meskipun aku menyebut banyak masalah dengan penemuan uang ini, sebenarnya aku mendukungnya. Karena uang memang membantu manusia untuk barter selama beratus-ratus tahun. Selain itu, tidak ada solusi tanpa tidak melibatkan masalah baru. Maka dari itu, aku beranggapan bahwa **hutang itu penting**. Selain itu, **lebih baik untuk menambah pendapatan daripada mencoba berhemat** karena menurutku berhemat kebutuhan pokok sama saja dengan menyiksa diri sendiri.
 
-Kalau sistemnya begini kenapa gak sekalian negara bagi-bagi duit aja? Tidak bisa, karena itu menimbulkan inflasi. Semakin banyak hutang negara, semakin banyak uang yang beredar, semakin melemah daya beli uang tersebut; dan inflasi besar-besaran pasti akan merusak ekonomi negara. Sebut saja stok krisis di paman sam, akibat kebijakan baru di 2001 yakni bunga 0% buat ngutang properti rumah, akhirnya orang gemar beli rumah, saking seringnya sampai harga properti rumah naik terus sampai 2008 dimana harganya membengkak parah dan banyak orang sudah gak kuat bayar utangnya, jadi banyak orang diusir kehilangan rumah, sehingga banyak stok dijual, sehingga banyak usaha bangkut, dan akhirnya jadi banyak penggangguran. Parah banget, apalagi negara venezuela yang kebanyakan suntik dana sampai-sampai uang negara mereka sendiri literally jadi mainan kertas.
-
-Sejak mengetahui itu aku sadar, uang di dunia ini gak jauh sama hanya seperti uang di game virtual, *literally* monopoli dan ilusi dunia. Kalau sudah tahu begini, buat apa mengais uang goceng di dunia ini?
+Dari sini, aku ingin mengarahkan beberapa strategi finansial yang aku yakini merupakan strategi terbaik, di halaman selanjutnya.

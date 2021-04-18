@@ -4,13 +4,15 @@ nav_order: 4
 layout: default
 ---
 
-Aku ingat pepatah sederhana ini:
+Hal pertama yang aku selalu ingat, adalah setiap investasi mempunyai tingkat resiko masing-masing.
 
-```
-Jika kamu ingin untung ribuan, maka kamu harus berani rugi ribuan
-Jika kamu ingin untung jutaan, maka kamu harus berani rugi jutaan
-Jika kamu ingin untung milyaran, maka kamu harus berani rugi milyaran
-```
+Investasi properti seperti emas atau rumah adalah investasi yang tergolong aman, karena harganya cenderung naik seiring inflasi berjalan. Namun karena durasi naiknya terlalu lama, aku tidak akan bermain disitu. Rasanya aneh menjadi tokoh seperti Warren Buffet yang hanya menikmati kekayaannya di masa tua.
+
+Lalu bagaimana dengan investasi resiko tinggi seperti saham, trading atau cryptocurrency? Sama, aku tidak akan bermain disitu karena cara bermainnya mirip seperti taruhan dan aku hanya akan membuang waktu mencemaskan kekayaan yang hilang tiap grafiknya berubah turun.
+
+Sejujurnya, inilah tipu daya sistem finansial didunia ini, banyak orang lupa bahwa **waktu adalah ukuran kekayaan dunia yang sesungguhnya**. Aku berpendapat demikian karena meski uang yang hilang dapat dicari, namun waktu yang hilang tentu sudah hilang selamanya. Jujur saja, andaikan orang tahu nilai sejati dari waktu, tidak akan orang akan membuang waktu untuk hal yang sia-sia.
+
+Untuk memahami bagaimana berharganya waktu, kita perlu memahami bagaimana kita membagi waktu: 8 jam untuk tidur, 4 jam memenuhi kebutuhan biologis, dan sisa 12 jam untuk
 
 Menurutku ini adalah hukum yang masuk akal untuk segala jenis investasi. sayangnya, orang banyak gemar investasi jangka panjang dalam bentuk properti, yang angka naiknya lambat, seperti tanah ataupun emas. Masalahnya karena naiknya hanya kelihatan dalam 1 tahun dan itu hanya seberapa ribu rupiah. Boleh lah kalau orang menunggu berpuluh-puluh tahun baru bisa dipanen hasilnya, tapi apakah sepadan?
 
@@ -20,4 +22,4 @@ Dan karena waktu kita masing-masing adalah yang berharga, maka pepatah yang meng
 
 Namun, adakah investasi yang lebih dari sekedar disini sendiri? Menurutku, investasi terbesar kedua adalah investasi pada orang lain. Tapi seperti investasi lain, perlu dipilih kandidat mana yang paling berpotensi, dan dapat dipercaya. Inilah mengapa pentingnya relasi bisnis perlu dibangun sejak dini, karena apabila orang melihatku sebagai orang yang terpercaya, artinya orang tersebut mau berinvestasi kepada saya, dan sebaliknya juga sama.
 
-Tapi apakah ada manfaat berinvestasi pada orang lain? Ada, dan menurut pengalamanku, timbal baliknya berpotensi jauh lebih baik dari aku bayangkan. Inilah mengapa, 
+Tapi apakah ada manfaat berinvestasi pada orang lain? Ada, dan menurut pengalamanku, timbal baliknya berpotensi jauh lebih baik dari aku bayangkan. Inilah mengapa,
